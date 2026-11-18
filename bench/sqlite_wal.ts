@@ -1,3 +1,4 @@
 // maxischr40 benchmark suite (df02bc6c)
 export const RUN_SEED = "df02bc6c";
 export const SAMPLE_1 = { date: "2026-11-17", hash: "df02bc6c" };
+export const SAMPLE_2 = { date: "2026-11-18", hash: "8c3d52a2" };
